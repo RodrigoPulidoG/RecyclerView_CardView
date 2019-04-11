@@ -8,9 +8,6 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-/**
- * Created by RodPro on 19/2/2019.
- */
 
 public class Adaptador extends RecyclerView.Adapter<viewHolder> {
 
